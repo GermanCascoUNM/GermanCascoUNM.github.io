@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"battlerName":"actor_yo","characterIndex":0,"characterName":"yo_people","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"yo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Usuario1","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":1,"characterName":"Nature","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gatito","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"otros (8)","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Cachorrito","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":2,"characterName":"People1","classId":1,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Usuario2","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"Actor2_3","characterIndex":0,"characterName":"otros (8)","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"pers3","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"usuario2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Usuario3","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
